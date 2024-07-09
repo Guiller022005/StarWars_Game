@@ -78,7 +78,7 @@ class MaestroJedi extends Jedi{
 }
 
 //instancia para Maestro
-const maestro1 = new MaestroJedi("Yoda", 80);
+const maestro1 = new MaestroJedi("Yoda", 85);
 // document.querySelector("#personajes").innerHTML = /*html*/`
 //     <h1>${maestro1.presentarse()}</h1>
 //     <p>${maestro1.usarFuerza()}</p>
